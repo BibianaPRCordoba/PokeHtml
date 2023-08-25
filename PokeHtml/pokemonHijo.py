@@ -1,3 +1,6 @@
+#Script hijo, que recibe todas las herencias del script padre
+#Aquí se hace la consulta para extraer los datos solicitados
+#Bibiana Pérez Rios Córdoba 
 import requests
 import sys
 
