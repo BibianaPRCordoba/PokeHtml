@@ -1,3 +1,8 @@
+#Script padre de PokeHtml
+#*PLEASE RUN THIS SCRIPT
+#Este script es el que se corre en consola para poner en marcha el sistema de generación de HTML
+#Bibiana Pérez Rios Córdoba
+
 import os
 
 def mostrar_menu():
