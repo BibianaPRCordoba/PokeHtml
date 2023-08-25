@@ -1,0 +1,92 @@
+
+html {
+    font: size 80px;
+}
+h1{
+    margin-left: 100px;
+    font-family: 'Pokemon Solid', sans-serif;
+    text-shadow: #FFFCA8 2px 2px 0px, #9C9C9C 4px 4px 0px, -29px 17px 5px;
+    padding-bottom: 15px;
+}
+p {
+    font-family: arial, helvetica, roboto, "new times roman", lato;
+    margin-left: 30px;
+    justify-content: center;
+}
+.img_pokemon{
+    height: 190px;
+    image-resolution: auto;
+    width: auto;
+    image-orientation: center;
+    background-color: #ffffff00;
+    margin-left: auto; 
+}
+.card_completa{
+    margin-top: 10%;
+    margin-left: 30%;
+    box-shadow: 0px 0px 39px -7px rgba(0,0,0,1);
+    border-radius: 10px;
+    justify-content: center;
+}
+/*INICIO POKEMÓN ELÉCTRICO*/
+.card-tipo-electric{
+    /* background-color: rgba(255, 255, 0, 0.349); */
+    color: black;
+    font-size: large;    
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+body.tipo-electric {
+    align-content: center;
+    background: linear-gradient(90deg,#ff880d 0%, #fffe00 80%);
+    color: black;
+}
+/* FIN POKEMÓN ELÉCTRICO*/
+
+/* INICIO POKEMÓN FUEGO */
+body.tipo-fire {
+background: linear-gradient(90deg,#ff0000 0%, #f3ff00 80%);
+    color: white;
+}
+.card-tipo-fire{    
+    color: black;
+    font-size: large;    
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+/* FIN POKEMÓN ELÉCTRICO */
+
+/* INICIO POKEMÓN AGUA */
+body.tipo-water {
+    align-content: center;
+    background-color: blue;
+    background: linear-gradient(90deg,#0065b4 0%, #8de7c2 80%);
+    color: white;
+}
+.card-tipo-water{    
+    color: black;
+    font-size: large;    
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+/* FIN POKEMÓN WATER */
+
+/* INICIO POKEMÓN PLANTA */
+body.tipo-grass {
+    background: linear-gradient(90deg,#1f7400 0%, #00f393 80%);
+    color: black;
+}
+.card-tipo-grass{    
+    color: black;
+    font-size: large;    
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+/* FIN POKEMÓN PLANTA */
+
+/* modal */
+
